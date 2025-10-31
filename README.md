@@ -1,7 +1,7 @@
 <h1>CRM Status Flows</h1>
 
 <!--
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](link)
  -->
 
 <h2>Description</h2>
@@ -13,7 +13,7 @@ To help stakeholders track updates in CRM sales records, I developed automated f
 - Microsoft Power Automate (flow creation)
 - CRM system integration (Dynamics 365)
 - Outlook email notifications
-- SharePoint (logging)
+- Microsoft Word for documentation of processes
 
 <h2>Environments Used </h2>
 
@@ -33,37 +33,18 @@ To help stakeholders track updates in CRM sales records, I developed automated f
 - Empowered sales and support teams with real-time visibility
 
 <h2>Program walk-through/Visual aids:</h2>
-<i><b>Still building...</b></i>
-<!--
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<i><b>Sensitive company info redacted from images</b></i>
+
+<p align="left">
+CRM Opportunities: <br/>
+<img src="https://imgur.com/yjTVLzv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Power Automate Flow:  <br/>
+<img src="https://imgur.com/EYQSJI0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
---!>
+
 
 <h3>Confidentiality Note</h3>
 <i>CRM screenshots are simulated. No real leads or contact info are shown.</i>
